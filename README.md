@@ -1,3 +1,4 @@
-# Preface
+# 说明
 
-This is a summary for my thesis on predicting compound-protein interaction based on statistical learning. 
+这本gitbook主要介绍我博士期间课题相关的内容，即基于统计学习模型预测化合物靶标。
+目前只有中文版，主要目的为经验积累和为实验室的师弟师妹提供参考。后续如有必要，会考虑英文版本。
