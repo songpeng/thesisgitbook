@@ -5,11 +5,11 @@
 ----------------
 
 在生物系统中，小分子化合物主要通过靶向蛋白质，影响其活
-性，从而执行一定的生物学功能@overington2006many。预测化合物靶标[^1]对研究化合物或药物活性机制
+性，从而执行一定的生物学功能{{"overington2006many" | cite}}。预测化合物靶标[^1]对研究化合物或药物活性机制
 （mechanisms of action, MOA）和药物前导化合物发现等方面均有重要价值
 @backus2016proteome。
 
-![小分子化合物和蛋白质相互作用的示例（摘自Arkin，2014）@arkin2014small<span
+![小分子化合物和蛋白质相互作用的示例（摘自Arkin，2014）{{"arkin2014small"| cite }}<span
 data-label="fig:introDTI"></span>](figures/introDTI.png)
 
 与此同时，近期的研究表明，即使最初设计为特异性单靶点的小分子药物，也通常会与多种
